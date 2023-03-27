@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdarg.h>
 
+
 /**
 * binary - prints the binary representation of an unsigned integer.
 * @args: the unsigned integer argument to be printed in binary
