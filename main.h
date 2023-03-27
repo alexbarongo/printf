@@ -3,7 +3,7 @@
 
 
 int _putchar(char c);
-
+int printBinary(va_list args);
 
 
 
